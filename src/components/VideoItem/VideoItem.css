@@ -1,0 +1,7 @@
+.video {
+  background-color: transparent
+}
+
+.video.item {
+  background-color: darkgrey
+}
